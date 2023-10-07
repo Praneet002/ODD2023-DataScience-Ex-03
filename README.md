@@ -26,9 +26,9 @@ Count the values from the data.
 Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 # Program:
-DEVELOPED BY : AAKASH P
+DEVELOPED BY : PRANEET S
 
-REGISTER NO : 212222110001
+REGISTER NO : 212221230078
 ```
 import pandas as pd
 import numpy as np
